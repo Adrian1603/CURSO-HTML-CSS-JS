@@ -1,0 +1,33 @@
+table tr, th, td{               /*para darle tamaño a las letras de la tabla*/
+    font-size: 30px;
+    border-collapse: collapse;
+}
+table{ /*para darle color a la tabla */
+    box-shadow: 2px 2px 2px black; /*para darle sombreado*/
+}
+table tr th{    /*para darle color a las cabeceras */
+    background-color: yellow;
+    padding: 15px; 
+    border: outset red 10px;
+}
+table tr td{    /*para darle formato a las casillas*/
+    border: solid black;
+    height: 30px;
+    padding: 15px;
+}
+table tr:nth-child(odd){
+    background-color: gray;
+}
+
+table tr:nth-child(even){
+    background-color: white;
+}
+
+table tr:nth-child(odd):hover{
+    background-color: forestgreen;
+    cursor: pointer;
+}
+table tr:nth-child(even):hover{
+    background-color: royalblue;
+    cursor: pointer;
+}

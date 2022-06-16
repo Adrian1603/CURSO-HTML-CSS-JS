@@ -1,0 +1,47 @@
+h1{
+    background-color: aqua;
+    text-align: center;
+    margin: 0;
+
+}
+footer{
+    text-align: center;
+    color: green;
+    font-size: 50px;
+}
+a:link{
+    text-decoration: none;
+    background-color: yellow;
+    color: red;
+}
+a:hover{
+    background-color: blue; color: yellow;
+}
+a:visited{
+    color: none;
+}
+body{
+    background-image: url("..//CSS/descarga.jfif");
+}
+#D1{
+    margin: 0%;
+    background-color: aqua;
+    width: 30%;
+    height: 800px;
+    background-size: cover;
+    float: left;
+}
+#Tabla{
+    text-align: center;
+}
+#D2{
+    position: relative;
+    top:  150px;
+    text-align: center;
+}
+#T{
+    position: relative;
+    top: 150px;
+    left: 150px;
+    
+}
