@@ -1,0 +1,19 @@
+.t1{
+    font-size: 2em ;
+}
+.t2{
+    font-size: 4em;
+}
+.t3{
+    font-size: 50%;
+}
+
+.style{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: red;
+    font-style:  italic;
+    font-weight: bold;
+    font-size: 24px;
+    text-transform: uppercase;
+    text-align: right;
+}

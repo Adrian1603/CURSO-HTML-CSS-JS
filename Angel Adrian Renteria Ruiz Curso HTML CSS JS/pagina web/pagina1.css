@@ -1,0 +1,59 @@
+h1{
+    background-color: aqua;
+    text-align: center;
+    margin: 0;
+    border: outset black 20px ;
+
+}
+footer{
+    text-align: center;
+    color: green;
+    font-size: 50px;
+}
+a.botones:link{
+    text-align: center;
+    text-decoration: none;
+    background-color: red;
+    display: block;
+    box-shadow: 10px;
+    border: outset black 10px;
+    box-sizing: border-box;
+    padding: 30px;
+    margin-bottom: 50px;
+    width: 200px;
+    height: 100px;
+}
+li{
+    list-style: none;
+}
+a:hover{
+    background-color: blue; color: yellow;
+}
+a:visited{
+    color: none;
+}
+body{
+    background-image: url("..//CSS/descarga.jfif");
+}
+#D1{
+    margin: 0%;
+    background-color: aqua;
+    width: 30%;
+    height: 100vh;
+    background-size: cover;
+    float: left;
+}
+#Tabla{
+    text-align: center;
+}
+#D2{
+    position: relative;
+    top:  50px;
+    text-align: center;
+}
+#T{
+    position: relative;
+    top: 150px;
+    left: 150px;
+    
+}

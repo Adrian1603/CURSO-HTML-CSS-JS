@@ -1,0 +1,16 @@
+.Tabla1 table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+}
+
+th,
+.Tabla1 td {
+    text-align: left;
+    padding: 16px;
+}
+
+.Tabla1 tr:nth-child(even) {
+    background-color: #f2f2f2;
+}

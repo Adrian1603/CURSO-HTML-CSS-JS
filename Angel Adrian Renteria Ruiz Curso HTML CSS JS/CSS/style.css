@@ -1,0 +1,10 @@
+body {
+    background-color: green;
+    font-size: 130%; 
+}
+h2 {
+    color: yellow;
+}
+p.centrado{
+    text-align: center;
+}
